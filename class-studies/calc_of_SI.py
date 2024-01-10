@@ -12,3 +12,7 @@ time = float(input("Enter the duration of time period:  "))
 si = (principle * time * rate)/ 100
 print ("the simple intertest is: ", si)
  
+# Multiplication table of 2
+num = 2
+for i in range(1, 11):
+    print(f"{num} * {i} = {num*i}")
