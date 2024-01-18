@@ -9,5 +9,5 @@ try:
 except(TypeError, NameError):
     print (c,d,e)
     print("You missed a comma between two lists")
-    Print("You didnt assign variable a")
-    
+    print("You didnt assign variable a")
+     
