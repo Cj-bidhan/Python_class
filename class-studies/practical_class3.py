@@ -1,8 +1,8 @@
-# a = 45
-# b = 23
-# print(abs(1 - (4 *b)))
-# print(int((a ** b) + .8))
-# print(round(a/b,3))
+a = 45
+b = 23
+print(abs(1 - (4 *b)))
+print(int((a ** b) + .8))
+print(round(a/b,3))
 
 #Justify output with format
 
