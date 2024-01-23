@@ -1,0 +1,165 @@
+    1  cd Desktop/
+    2  ls
+    3  ls
+    4  git status
+    5  cd OneDrive/Desktop?Python
+    6  cd OneDrive
+    7  cd Desktop/
+    8  cd Python
+    9  git status
+   10  git add Assignment/
+   11  git status
+   12  git commit -m "Assignment1/"
+   13  git push origin main
+   14  git status
+   15  git add Assignment/assign1.py
+   16  git commit -m "Add new print statement"
+   17  git push origin main
+   18  git status
+   19  git add Readme.md
+   20  git commit -m "Added a readme file"
+   21  git push origin main
+   22  git status
+   23  git add Class studies
+   24  git add Class studies/
+   25  git status
+   26  git add README.md 
+   27  git commit -m "Added README file"
+   28  git push origin main
+   29  git status
+   30  git add Class studies/
+   31  git add Day2.py 
+   32  git status
+   33  git commit -m "added a new file"
+   34  git push origin main
+   35  git status
+   36  git add Class studies/
+   37  git status
+   38  git add class-studies/
+   39  git commit -m "Added new folder"
+   40  git push origin main
+   41  clear
+   42  git statud
+   43  git status
+   44  git add GIT_README.md 
+   45  git commit -m "Instructions on how to push on git"
+   46  git push origin main
+   47  git status
+   48  git add .
+   49  git status
+   50  git commit -m "Organized into folders"
+   51  git push origin main
+   52  git status
+   53  git add.
+   54  git add .
+   55  git commit -m "Updated files and documents"
+   56  git push origin main
+   57  exit
+   58  git status
+   59  cd OneDrive
+   60  cd Desktop/Python
+   61  git status
+   62  git add .
+   63  git commit -m "Updated files for day 3"
+   64  git push origin main
+   65  git status
+   66  git add .
+   67  git commit -m "Updated class of day 3"
+   68  git push origin main
+   69  exit
+   70  cd Onedrive/Desktop/Python/
+   71  git status
+   72  git add .
+   73  git commit -m "Updated files for day 3"
+   74  git push origin main
+   75  cd OneDrive/Desktop/Python/
+   76  ls
+   77  cd OneDrive/ Desktop/pYTHON
+   78  cd OneDrive/ Desktop/Python
+   79  cd OneDrive
+   80  ls
+   81  cd Desktop/
+   82  ls
+   83  cd Python/
+   84  git status
+   85  git add .
+   86  git commit -m "Changes for day 5"
+   87  git push origin main
+   88  git status
+   89  git remove 
+   90  git --help
+   91  git rm. toberemoved.py
+   92  git rm toberemoved.py
+   93  cd Python
+   94  cd Python/
+   95  cd OneDrive/Desktop/Python/
+   96  ls
+   97  cd Coding_class/
+   98  ls
+   99  cd class-studies
+  100  cd class-studies/
+  101  ls
+  102  cd Assignment/
+  103  ls
+  104  /
+  105  cd ..
+  106  ls
+  107  cd Assignment/
+  108  ls
+  109  git rm toberemoved.py 
+  110  git status
+  111  ls
+  112  cd .
+  113  cd ..
+  114  cd ...
+  115  git status
+  116  gir add .
+  117  git add.
+  118  git add .
+  119  git commit - m "Changes for day 6"
+  120  git status
+  121  git commit -m "Updated day 6"
+  122  git push origin main
+  123  exity
+  124  exit
+  125  cd OneDrive
+  126  la
+  127  ls
+  128  cd Desktop/Python/
+  129  git status
+  130  git add .
+  131  git commit -m "updated files"
+  132  git push origin main
+  133  cd ..
+  134  git init
+  135  git status
+  136  git add TaskTone/
+  137  git add README.md
+  138  git commit -m "Final Year Project files; TaskTone"
+  139  git branch -M main
+  140  git remote add origin https://github.com/Cj-bidhan/TaskTone.git
+  141  git push -u origin main
+  142  git status
+  143  git status
+  144  ls
+  145  cd TaskTone/
+  146  git status
+  147  git add README.md
+  148  git create README.md
+  149  git --help
+  150  cd OneDrive/Desktop/Python/
+  151  python --version
+  152  python3 --version
+  153  python -m venv env
+  154  python --version
+  155  python
+  156  ls
+  157  python check.py 
+  158  python --verson
+  159  python
+  160  hist
+  161  history.txt
+  162  history > history.txt
+  163  ls
+  164  cd OneDrive/Desktop/Python/
+  165  history > history.txt
